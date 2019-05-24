@@ -1,0 +1,10 @@
+C:\Repositories\Chapter05StringClass\Chapter05StringClass\bin\Debug\Chapter05StringClass.exe.config
+C:\Repositories\Chapter05StringClass\Chapter05StringClass\bin\Debug\Chapter05StringClass.exe
+C:\Repositories\Chapter05StringClass\Chapter05StringClass\bin\Debug\Chapter05StringClass.pdb
+C:\Repositories\Chapter05StringClass\Chapter05StringClass\obj\Debug\Chapter05StringClass.csprojAssemblyReference.cache
+C:\Repositories\Chapter05StringClass\Chapter05StringClass\obj\Debug\Chapter05StringClass.Form1.resources
+C:\Repositories\Chapter05StringClass\Chapter05StringClass\obj\Debug\Chapter05StringClass.Properties.Resources.resources
+C:\Repositories\Chapter05StringClass\Chapter05StringClass\obj\Debug\Chapter05StringClass.csproj.GenerateResource.cache
+C:\Repositories\Chapter05StringClass\Chapter05StringClass\obj\Debug\Chapter05StringClass.csproj.CoreCompileInputs.cache
+C:\Repositories\Chapter05StringClass\Chapter05StringClass\obj\Debug\Chapter05StringClass.exe
+C:\Repositories\Chapter05StringClass\Chapter05StringClass\obj\Debug\Chapter05StringClass.pdb
